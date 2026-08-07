@@ -21,6 +21,7 @@ build/
 CODEBASE.md
 PRESENTATION_NOTES.md
 SECURITY.md
+prompt documents/
 
 # debug
 npm-debug.log*
